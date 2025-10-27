@@ -1,4 +1,5 @@
 # --- Task (Interactive) ---
+
 def read_nonempty(prompt):
     while True:
         s = input(prompt).strip()
