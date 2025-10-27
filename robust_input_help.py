@@ -1,3 +1,4 @@
+# Robust Input Help Module
 # --- Task (Interactive) ---
 
 def read_nonempty(prompt):
