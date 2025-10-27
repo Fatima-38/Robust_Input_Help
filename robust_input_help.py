@@ -1,4 +1,4 @@
-# Robust Input Help Module
+# Robust Input Help Module: Functions for user input.
 # --- Task (Interactive) ---
 
 def read_nonempty(prompt):
